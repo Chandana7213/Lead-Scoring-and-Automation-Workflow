@@ -46,7 +46,8 @@ https://zapier.com/editor/268437861/published
 # Task 3
 ![Screenshot (207)](https://github.com/user-attachments/assets/47ab69f2-e313-4130-a722-4176e9972c03)
 
-# Link
+# Links
+https://zapier.com/editor/268437861/published
 https://zapier.com/editor/268462970/published/_GEN_1732282739487/sample
 
 Steps in Zapier
