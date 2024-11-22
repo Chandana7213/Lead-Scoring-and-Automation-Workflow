@@ -52,8 +52,20 @@ https://zapier.com/editor/268437861/published
 https://zapier.com/editor/268462970/published/_GEN_1732282739487/sample
 
 Steps in Zapier
-Trigger: New Google Forms submission.
-Google Sheets Action: Fetch the total lead score from the sheet.
-Filter by Zapier: Only proceed if the score > 70.
-Gmail Action: Send a welcome email for high-scoring leads.
-Google Sheets Action: Log low-scoring leads (<70) in a separate nurturing spreadsheet.
+Trigger: New Google Forms submission.                  
+Google Sheets Action: Fetch the total lead score from the sheet.                              
+Filter by Zapier: Only proceed if the score > 70 and then edited to > 90.                                                 
+Gmail Action: Send a welcome email for high-scoring leads.                   
+Google Sheets Action: Log low-scoring leads (<70) in a separate nurturing spreadsheet.      
+
+# Final Conclusion
+This project was an enriching experience where I independently designed and implemented a lead management workflow for TechNova using Zapier, Google Forms, Google Sheets, Gmail, and Google Calendar. From capturing and scoring leads to addressing edge cases and scaling for advanced capabilities, every step was thoughtfully executed.
+
+I applied my skills and dedication to create an automated system that prioritizes leads, addresses incomplete data, ensures high-value leads are managed effectively, and incorporates advanced features like keyword extraction and sales rep assignment. This solution is robust, scalable, and designed to enhance TechNova's lead management process with all my dedication and hardwork.
+
+# Key Achievements
+Automated lead scoring for prioritization.
+Addressed edge cases for incomplete data and high-value lead management.
+Enhanced workflow with advanced features like keyword extraction and lead distribution.
+Seamlessly integrated tools for an efficient, unified system.
+This project reflects my passion and commitment to delivering impactful solutions. Thank you for the opportunity to showcase my skills!
