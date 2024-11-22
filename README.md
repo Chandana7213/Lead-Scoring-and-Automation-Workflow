@@ -31,8 +31,14 @@ Conditional Email Trigger A helper column (E2) to indicate if the score exceeds 
 =IF(SUM(Your_Scoring_Formula)>70, "Send Email", "Nurture")               
 # Zapier Workflow
 Published Zap Link
-Zapier Workflow Published Link 
+![Screenshot (199)](https://github.com/user-attachments/assets/bafbb78f-1ba8-4744-b830-1fe9d4f427d8)
+
+![Screenshot (201)](https://github.com/user-attachments/assets/9d39bd97-969a-42fa-913e-1aee8e9b8ab1)
+
+![Screenshot (205)](https://github.com/user-attachments/assets/2457a238-a64a-4840-bd74-a29c7e93cbf9)
+
 ![Screenshot (195)](https://github.com/user-attachments/assets/0dafc0e0-935d-4ab5-8f1b-1243c587c7a4)
+
 ![Screenshot (196)](https://github.com/user-attachments/assets/c3ef7028-20be-4019-a5f2-d789b0a496f3)
 https://zapier.com/editor/268437861/published
 
