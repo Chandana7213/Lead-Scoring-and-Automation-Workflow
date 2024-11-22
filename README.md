@@ -41,6 +41,13 @@ Published Zap Link
 
 ![Screenshot (196)](https://github.com/user-attachments/assets/c3ef7028-20be-4019-a5f2-d789b0a496f3)
 https://zapier.com/editor/268437861/published
+# Task2 
+![image](https://github.com/user-attachments/assets/e5084eda-ef75-4144-b254-7010888a0664)
+# Task 3
+![Screenshot (207)](https://github.com/user-attachments/assets/47ab69f2-e313-4130-a722-4176e9972c03)
+
+# Link
+https://zapier.com/editor/268462970/published/_GEN_1732282739487/sample
 
 Steps in Zapier
 Trigger: New Google Forms submission.
